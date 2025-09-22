@@ -1,0 +1,1 @@
+This Code Is For A Website that i used , so for other website you have to use a diffrent attribute to scape its content.
